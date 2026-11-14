@@ -1,0 +1,1 @@
+Liste de flux RSS de médias indépendants, agrégés depuis différentes sources (Portail des médias libres, Spiil, Sphera Network, Médianes...). Le fichier CSV contient le nom du média et l'URL de son flux RSS.
